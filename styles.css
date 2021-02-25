@@ -1,0 +1,37 @@
+body {
+    background-color: darkolivegreen;
+}
+
+.font {
+    font: normal 18px arial, helvetica, serif;
+}
+
+.black-border {
+    border: 5px solid black;
+
+}
+
+#green-background {
+
+    background-color: green;
+}
+
+
+div {
+    width: 1500px;
+    height: 600px;
+    background-color: darkolivegreen (george.jpg) no-repeat;
+    border: 12px dashed #1b1a19;
+}
+
+div p {
+    color: #fff;
+    margin: 10px 10px 0 0;
+    font: bold 60px Georgia, "Times New Roman", Times, serif;
+    text-align: right;
+}
+
+.fontcolor {
+    color: purple;
+
+}
